@@ -1,0 +1,3 @@
+{ CustomerId=0, Name=null, Fund=1500 }
+{ CustomerId=0, Name=null, Fund=10000 }
+{ CustomerId=0, Name=null, Fund=10000 }

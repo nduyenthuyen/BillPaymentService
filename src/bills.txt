@@ -1,0 +1,1 @@
+{ BillId=0, Type=ELECTRIC, Amount=10000, DueDate=23/10/2023, State=PAID, Provider=thuyen }

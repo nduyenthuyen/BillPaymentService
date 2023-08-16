@@ -1,0 +1,1 @@
+{ PaymentId=0, Amount=10000, PaymentDate=17/08/2023, State=PROCESSED, BillId=0 }
